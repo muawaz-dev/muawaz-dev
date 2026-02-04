@@ -16,7 +16,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFawWWjg9D3Z1-fJ51G0XYLIGNQv0zeCv8gA&s" height="30" alt="next js"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFawWWjg9D3Z1-fJ51G0XYLIGNQv0zeCv8gA&s" height="30" alt="next js"
+    width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
