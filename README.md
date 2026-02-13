@@ -8,9 +8,8 @@
 ###
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/g-popovic/g-popovic/master/programmer.gif"  />
+
 <br clear="right" />
-###
-<img src="https://via.placeholder.com/1x30/ffffff00" alt="" />
 
 <div align="left">
   <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012625/html_w9qn3g.png" height="30" alt="html5 logo"  />
