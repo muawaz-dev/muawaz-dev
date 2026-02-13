@@ -8,7 +8,7 @@
 ###
 
 <img align="right" height="150" src="https://raw.githubusercontent.com/g-popovic/g-popovic/master/programmer.gif"  />
-
+<br clear="right" />
 ###
 <img src="https://via.placeholder.com/1x30/ffffff00" alt="" />
 
@@ -17,24 +17,24 @@
   <img width="12" />
   <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012625/css_echpge.png" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012628/tailwind-css_v4dbg7.png" height="25" alt="tailwindcss logo"  />
+  <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012628/tailwind-css_v4dbg7.png" height="23" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012625/javascript_tmwqik.png" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012626/typescript_pe9lub.png" height="30" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012629/react_kfn02a.png" height="30" alt="react logo"  />
+  <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012629/react_kfn02a.png" height="32" alt="react logo"  />
   <img width="12" />
-  <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012629/next-js_wnpwvj.png" height="30" alt="next js"
+  <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012629/next-js_wnpwvj.png" height="32" alt="next js"
     />
   <img width="12" />
-  <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012630/node-js_rd7t2u.png" height="30" alt="nodejs logo"  />
+  <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012630/node-js_rd7t2u.png" height="32" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771014760/express-js_c0quks.png" height="30" alt="express logo"  />
+  <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771014760/express-js_c0quks.png" height="32" alt="express logo"  />
   <img width="12" />
   <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012627/python_ydxeu1.png" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012625/mongodb_mx7oqa.png" height="30" alt="mongodb logo"  />
+  <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012625/mongodb_mx7oqa.png" height="32" alt="mongodb logo"  />
 </div>
 
 ###
