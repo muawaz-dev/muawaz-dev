@@ -7,7 +7,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="150" src="https://raw.githubusercontent.com/g-popovic/g-popovic/master/programmer.gif" />
 </div>
 
