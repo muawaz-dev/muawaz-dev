@@ -16,7 +16,7 @@
   <img width="12" />
   <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012625/css_echpge.png" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012628/tailwind-css_v4dbg7.png" height="35" alt="tailwindcss logo"  />
+  <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012628/tailwind-css_v4dbg7.png" height="30" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012625/javascript_tmwqik.png" height="30" alt="javascript logo"  />
   <img width="12" />
