@@ -12,28 +12,28 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012625/html_w9qn3g.png" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012625/css_echpge.png" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFawWWjg9D3Z1-fJ51G0XYLIGNQv0zeCv8gA&s" height="30" alt="next js"
+  <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012628/tailwind-css_v4dbg7.png" height="35" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012625/javascript_tmwqik.png" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012626/typescript_pe9lub.png" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012629/react_kfn02a.png" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012629/next-js_wnpwvj.png" height="30" alt="next js"
     />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012630/node-js_rd7t2u.png" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771014045/express-js_mrrdwm.png" height="30" alt="express logo"  />
   <img width="12" />
-  <img src="https://miro.medium.com/v2/1*V5bSeGXuc-y2Ketn2waVKA.png" height="35" alt="tailwindcss logo"  />
+  <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012627/python_ydxeu1.png" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://images.seeklogo.com/logo-png/27/1/node-js-logo-png_seeklogo-273749.png" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img src="https://res.cloudinary.com/dwsfgcfyh/image/upload/v1771012625/mongodb_mx7oqa.png" height="30" alt="mongodb logo"  />
 </div>
 
 ###
